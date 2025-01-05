@@ -33,7 +33,7 @@ The goal of this project is to develop a user-friendly and responsive e-learning
 - **Interactive Elements**: Hover effects, dropdown menus, and modals for an engaging user experience.
 - **Modern UI Elements**: Use of cards, icons, and buttons to enhance the interface's look and feel.
 
-![Screenshot of My Project](task4.2.png)
+![Screenshot of My Project](task4.5.png)
 
 ## Technologies Used
 
@@ -52,7 +52,7 @@ The goal of this project is to develop a user-friendly and responsive e-learning
   - Font Awesome for icons.
   - jQuery for DOM manipulation (optional).
  
-    ![Screenshot of My Project](task4.3.png)
+    ![Screenshot of My Project](task4.6.png)
 
 ## Implementation Details
 
@@ -61,9 +61,9 @@ The goal of this project is to develop a user-friendly and responsive e-learning
    - Sections for Featured Courses, Popular Instructors, and Upcoming Courses.
    - User-friendly forms for registration and login.
    - Interactive course cards with hover effects for more details.
+     ![Screenshot of My Project](task4.2.png)
      ![Screenshot of My Project](task4.4.png)
-     ![Screenshot of My Project](task4.5.png)
-     ![Screenshot of My Project](task4.6.png)
+     ![Screenshot of My Project](task4.3.png)
 
 2. **Course Management**:
    - Categories for course filtering.
